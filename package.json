@@ -1,0 +1,24 @@
+{
+  "name": "webcompetecoficial",
+  "version": "1.0.0",
+  "description": "Official Website for Competec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioC12/Web-Competec.git"
+  },
+  "keywords": [
+    "React",
+    "Startup",
+    "Competec"
+  ],
+  "author": "Mauricio Contreras, Bryan Valdez, Alexandra Valdez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauricioC12/Web-Competec/issues"
+  },
+  "homepage": "https://github.com/MauricioC12/Web-Competec#readme"
+}
